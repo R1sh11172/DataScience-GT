@@ -1,4 +1,4 @@
-#Introductory python lesson w/ all lessons nn
+#Introductory python lesson w/ all lessons n
 
 def cube(n): 
     return n * n * n
