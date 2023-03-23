@@ -1,7 +1,7 @@
 #Introductory python lesson w/ all lessons 
 
 def cube(n): 
-    return n * n * n
+    return n *  * n
     raise NotImplementedError("Did not implement the cube function")
 
 def factorial(n):
